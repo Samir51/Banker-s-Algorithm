@@ -24,6 +24,7 @@ img {
 </style>
 
 ![](Example/Example1-1.png)
+<img src="Example/Example1-1.png" alt="My Image" width="500" height="300">
 
 ![](Example/Example1-2.png)
 
