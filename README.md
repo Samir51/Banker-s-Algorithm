@@ -14,27 +14,24 @@ Then, a window will appear where you can request additional resource for a certa
 
 You can find below example pictures of the GUI input screens:
 
-<style>
-img {
-  display: block;
-  margin: auto;
-  width: 50%;
-  height: 50%;
-}
-</style>
-
-![](Example/Example1-1.png)
-<img src="Example/Example1-1.png" alt="My Image" width="500" height="300">
-
-![](Example/Example1-2.png)
-
-![](Example/Example1-3.png)
-
-![](Example/Example1-4.png)
-
-![](Example/Example1-5.png)
-
-![](Example/Example1-6.png)
+<div style="text-align:center;">
+  <img src="Example/Example1-1.png" width="300">
+</div>
+<div style="text-align:center;">
+  <img src="Example/Example1-2.png" width="300">
+</div>
+<div style="text-align:center;">
+  <img src="Example/Example1-3.png" width="300">
+</div>
+<div style="text-align:center;">
+  <img src="Example/Example1-4.png" width="300">
+</div>
+<div style="text-align:center;">
+  <img src="Example/Example1-5.png" width="300">
+</div>
+<div style="text-align:center;">
+  <img src="Example/Example1-6.png" width="300">
+</div>
 
 ## **Implementation Details**
 
